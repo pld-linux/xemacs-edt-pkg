@@ -2,7 +2,7 @@ Summary:	DEC EDIT/EDT emulation
 Summary(pl):	DEC EDIT/EDT emulation
 Name:		xemacs-edt-pkg
 %define 	srcname	edt
-Version:	1.09
+Version:	1.10
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
