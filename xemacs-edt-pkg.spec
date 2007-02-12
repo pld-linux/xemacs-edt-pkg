@@ -1,5 +1,5 @@
 Summary:	DEC EDIT/EDT emulation
-Summary(pl):	Emulacja DEC EDIT/EDT
+Summary(pl.UTF-8):   Emulacja DEC EDIT/EDT
 Name:		xemacs-edt-pkg
 %define 	srcname	edt
 Version:	1.13
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DEC EDIT/EDT emulation.
 
-%description -l pl
+%description -l pl.UTF-8
 Emulacja DEC EDIT/EDT.
 
 %prep
