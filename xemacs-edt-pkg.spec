@@ -1,5 +1,5 @@
 Summary:	DEC EDIT/EDT emulation
-Summary(pl.UTF-8):   Emulacja DEC EDIT/EDT
+Summary(pl.UTF-8):	Emulacja DEC EDIT/EDT
 Name:		xemacs-edt-pkg
 %define 	srcname	edt
 Version:	1.13
