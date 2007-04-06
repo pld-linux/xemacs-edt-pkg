@@ -6,7 +6,7 @@ Version:	1.13
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	1ca337b8b41799394068717d8d716516
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
