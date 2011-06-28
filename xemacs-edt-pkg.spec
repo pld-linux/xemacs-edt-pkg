@@ -2,12 +2,12 @@ Summary:	DEC EDIT/EDT emulation
 Summary(pl.UTF-8):	Emulacja DEC EDIT/EDT
 Name:		xemacs-edt-pkg
 %define 	srcname	edt
-Version:	1.13
-Release:	2
+Version:	1.14
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	1ca337b8b41799394068717d8d716516
+# Source0-md5:	39475ea90ad75c0c64e7ebf2948dfc0a
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
